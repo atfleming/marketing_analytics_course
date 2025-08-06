@@ -1,7 +1,7 @@
 ![Inferno Agency](inferno-wordmark-orange.png)
 
 # 📊 Marketing Analytics Learning Program
-### *Complete Project Structure for Client-Focused Analytics Excellence*
+### *Complete Project Structure for Client-Focused Marketing Data Analytics Tools and Skill Knowledge*
 #### *Based on https://roadmap.sh/data-analyst* 
 ---
 
@@ -25,11 +25,11 @@ Marketing Analytics Learning Program/
 ├── 01_Data_Sources/                # 📊 Kaggle datasets and sample data
 ├── 02_Module_Excel/                # 📊 Excel analytics fundamentals
 ├── 03_Tools_Setup/                 # 🛠️ Installation guides and configurations
-├── 04_Module_1_Tableau/            # 📈 Tableau dashboard development
-├── 05_Module_2_PowerBI/            # ⚡ Power BI reporting and KPIs
-├── 06_Module_3_Python_Jupyter/     # 🐍 Python analytics and segmentation
-├── 07_Module_4_SQL/                # 🗃️ SQL queries and database analysis
-├── 08_Module_5_Machine_Learning/   # 🤖 Predictive modeling and ML
+├── 04_Module_Tableau/              # 📈 Tableau dashboard development
+├── 05_Module_PowerBI/              # ⚡ Power BI reporting and KPIs
+├── 06_Module_Python_Jupyter/       # 🐍 Python analytics and segmentation
+├── 07_Module_SQL/                  # 🗃️ SQL queries and database analysis
+├── 08_Module_Machine_Learning/     # 🤖 Predictive modeling and ML
 ├── 09_Client_Projects/             # 🏢 Client-specific project implementations
 ├── 10_Portfolio_Development/       # 🎨 Case studies and presentations
 └── 11_Resources_Templates/         # 📋 Reusable templates and libraries
@@ -118,13 +118,13 @@ flowchart LR
 1. **Week 1:** Review planning guides, set up tools, download datasets
 2. **Week 2:** Complete Module Excel - Client-focused Excel analytics
 3. **Week 3:** Complete Module Statistics - Statistical foundations
-4. **Week 4:** Complete Module 1 (Tableau) - FedEx logistics dashboard
+4. **Week 4:** Complete Tableau Module - FedEx logistics dashboard
 
 ### **📅 Phase 2: Core Skills (Weeks 5-8)**
-5. **Week 5:** Complete Module 2 (Power BI) - AnovoRx healthcare KPIs
-6. **Week 6:** Complete Module 3 (Python) - ATEC Spine segmentation
-7. **Week 7:** Complete Module 4 (SQL) - Cross-client query practice
-8. **Week 8:** Complete Module 5 (ML) - Predictive analytics projects
+5. **Week 5:** Complete PowerBI Module - AnovoRx healthcare KPIs
+6. **Week 6:** Complete Python Module - ATEC Spine segmentation
+7. **Week 7:** Complete SQL Module - Cross-client query practice
+8. **Week 8:** Complete Machine Learning Module - Predictive analytics projects
 
 ### **📅 Phase 3: Client Projects (Weeks 9-10)**
 9. **Week 9:** Build comprehensive client-specific projects
@@ -140,16 +140,16 @@ flowchart LR
 
 ### **🔧 Setup & Preparation**
 - [ ] Review all planning documents in `00_Planning_Guide/`
-- [ ] Install required tools (see `02_Tools_Setup/`)
+- [ ] Install required tools (see `03_Tools_Setup/`)
 - [ ] Download all datasets from Kaggle (see `01_Data_Sources/`)
 - [ ] Set up development environment
 
 ### **📚 Module Completion**
-- [ ] **Module 1:** Tableau FedEx logistics dashboard
-- [ ] **Module 2:** Power BI AnovoRx healthcare KPIs
-- [ ] **Module 3:** Python ATEC Spine customer segmentation
-- [ ] **Module 4:** SQL cross-client query mastery
-- [ ] **Module 5:** Machine Learning predictive models
+- [ ] **Tableau Module:** FedEx logistics dashboard
+- [ ] **Power BI Module:** AnovoRx healthcare KPIs
+- [ ] **Python Module:** ATEC Spine customer segmentation
+- [ ] **SQL Module:** Cross-client query mastery
+- [ ] **Machine Learning Module:** Predictive models
 
 ### **🏢 Client Projects**
 - [ ] **FedEx:** Campaign optimization and churn prediction
@@ -186,7 +186,7 @@ flowchart LR
 1. **Start Here:** Read all documents in `00_Planning_Guide/`
 2. **Set Up Tools:** Follow instructions in `02_Tools_Setup/`
 3. **Get Data:** Download datasets using `01_Data_Sources/README.md`
-4. **Begin Learning:** Start with `03_Module_1_Tableau/`
+4. **Begin Learning:** Start with `04_Module_Tableau/`
 
 ---
 
