@@ -24,15 +24,16 @@ Marketing Analytics Learning Program/
 ├── 00_Planning_Guide/              # 📚 All planning documents and guides
 ├── 01_Data_Sources/                # 📊 Kaggle datasets and sample data
 ├── 02_Module_Excel/                # 📊 Excel analytics fundamentals
-├── 03_Tools_Setup/                 # 🛠️ Installation guides and configurations
-├── 04_Module_Tableau/              # 📈 Tableau dashboard development
-├── 05_Module_PowerBI/              # ⚡ Power BI reporting and KPIs
-├── 06_Module_Python_Jupyter/       # 🐍 Python analytics and segmentation
-├── 07_Module_SQL/                  # 🗃️ SQL queries and database analysis
-├── 08_Module_Machine_Learning/     # 🤖 Predictive modeling and ML
-├── 09_Client_Projects/             # 🏢 Client-specific project implementations
-├── 10_Portfolio_Development/       # 🎨 Case studies and presentations
-└── 11_Resources_Templates/         # 📋 Reusable templates and libraries
+├── 03_Module_Statistics/           # 📊 Statistical foundations
+├── 04_Tools_Setup/                 # 🛠️ Installation guides and configurations
+├── 05_Module_Tableau/              # 📈 Tableau dashboard development
+├── 06_Module_PowerBI/              # ⚡ Power BI reporting and KPIs
+├── 07_Module_Python_Jupyter/       # 🐍 Python analytics and segmentation
+├── 08_Module_SQL/                  # 🗃️ SQL queries and database analysis
+├── 09_Module_Machine_Learning/     # 🤖 Predictive modeling and ML
+├── 10_Client_Projects/             # 🏢 Client-specific project implementations
+├── 11_Portfolio_Development/       # 🎨 Case studies and presentations
+└── 12_Resources_Templates/         # 📋 Reusable templates and libraries
 ```
 
 ---
@@ -140,7 +141,7 @@ flowchart LR
 
 ### **🔧 Setup & Preparation**
 - [ ] Review all planning documents in `00_Planning_Guide/`
-- [ ] Install required tools (see `03_Tools_Setup/`)
+- [ ] Install required tools (see `04_Tools_Setup/`)
 - [ ] Download all datasets from Kaggle (see `01_Data_Sources/`)
 - [ ] Set up development environment
 
@@ -184,9 +185,9 @@ flowchart LR
 ## 📞 Getting Started
 
 1. **Start Here:** Read all documents in `00_Planning_Guide/`
-2. **Set Up Tools:** Follow instructions in `02_Tools_Setup/`
+2. **Set Up Tools:** Follow instructions in `04_Tools_Setup/`
 3. **Get Data:** Download datasets using `01_Data_Sources/README.md`
-4. **Begin Learning:** Start with `04_Module_Tableau/`
+4. **Begin Learning:** Start with `02_Module_Excel/`
 
 ---
 
